@@ -1,5 +1,7 @@
 // http://qunitjs.com/
 
+module('Module Assert');
+
 // Assertions
 test('nunber of Cars', function() {
     ok(nbCars(0), 'Zero is a possible number of cars');
