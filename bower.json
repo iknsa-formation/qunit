@@ -1,0 +1,27 @@
+{
+  "name": "qunit",
+  "homepage": "https://github.com/iknsa-formation/qunit",
+  "authors": [
+    "Khalid Sookia <khalidsookia@gmail.com>"
+  ],
+  "description": "Introduction to qunit, a JavaScript testing suite",
+  "main": "index.html",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "iknsa",
+    "qunit",
+    "tutorial",
+    "js",
+    "tests",
+    "unit",
+    "testing",
+    "unit",
+    "course"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "qunit": "~1.20.0"
+  }
+}
